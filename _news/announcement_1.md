@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I presented my work at the minisymposium GPs and Kernel Methods for Scientific Machine Learning at SIAM Conference on Uncertainty Quantification (UQ24).
+I presented my work at the minisymposium GPs and Kernel Methods for Scientific Machine Learning at [SIAM Conference on Uncertainty Quantification (UQ24)](https://www.siam.org/conferences-events/past-event-archive/uq24/).
 
