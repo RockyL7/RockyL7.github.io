@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
 [Paper](https://arxiv.org/abs/2504.03914) on optimally randomly truncated Krylov methods accepted to SISC.
